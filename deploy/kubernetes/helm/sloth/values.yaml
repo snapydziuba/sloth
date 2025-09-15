@@ -11,7 +11,7 @@ image:
 # -- Container resources: requests and limits for CPU, Memory
 resources:
   limits:
-    cpu: 50m
+    cpu: null
     memory: 150Mi
   requests:
     cpu: 5m
